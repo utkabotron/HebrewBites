@@ -1,19 +1,63 @@
-const tintColorLight = '#2f95dc';
-const tintColorDark = '#fff';
-
-export default {
-  light: {
-    text: '#000',
-    background: '#fff',
-    tint: tintColorLight,
-    tabIconDefault: '#ccc',
-    tabIconSelected: tintColorLight,
+export const Colors = {
+  primary: '#C4712B',
+  primaryDark: '#A35D23',
+  primaryLight: '#E8A45C',
+  background: '#FDF6EE',
+  backgroundDark: '#F5E6D3',
+  card: 'rgba(255, 255, 255, 0.55)',
+  cardBorder: 'rgba(255, 255, 255, 0.7)',
+  cardShadow: 'rgba(194, 113, 43, 0.08)',
+  glass: {
+    bg: 'rgba(255, 255, 255, 0.45)',
+    bgStrong: 'rgba(255, 255, 255, 0.65)',
+    border: 'rgba(255, 255, 255, 0.8)',
+    borderLight: 'rgba(255, 255, 255, 0.5)',
+    shadow: 'rgba(0, 0, 0, 0.06)',
   },
-  dark: {
-    text: '#fff',
-    background: '#000',
-    tint: tintColorDark,
-    tabIconDefault: '#ccc',
-    tabIconSelected: tintColorDark,
+  text: '#2D2D2D',
+  textSecondary: '#7A7A7A',
+  textLight: '#FFFFFF',
+  success: '#4CAF50',
+  successLight: 'rgba(76, 175, 80, 0.15)',
+  error: '#E53935',
+  errorLight: 'rgba(229, 57, 53, 0.1)',
+  warning: '#FF9800',
+  badge: {
+    free: '#4CAF50',
+    paid: '#C4712B',
+    beginner: '#9E9E9E',
+    intermediate: '#2196F3',
+    advanced: '#9C27B0',
+    mastered: '#4CAF50',
+  },
+  tabBar: {
+    active: '#C4712B',
+    inactive: '#9E9E9E',
+    background: 'rgba(255, 255, 255, 0.7)',
+  },
+};
+
+export const GlassStyle = {
+  card: {
+    backgroundColor: Colors.glass.bg,
+    borderWidth: 1,
+    borderColor: Colors.glass.border,
+    borderRadius: 20,
+    shadowColor: Colors.glass.shadow,
+    shadowOffset: { width: 0, height: 8 },
+    shadowOpacity: 1,
+    shadowRadius: 24,
+    elevation: 4,
+  },
+  cardStrong: {
+    backgroundColor: Colors.glass.bgStrong,
+    borderWidth: 1,
+    borderColor: Colors.glass.border,
+    borderRadius: 20,
+    shadowColor: Colors.glass.shadow,
+    shadowOffset: { width: 0, height: 8 },
+    shadowOpacity: 1,
+    shadowRadius: 24,
+    elevation: 4,
   },
 };
