@@ -1,0 +1,660 @@
+{
+  "version": "2.9",
+  "children": [
+    {
+      "type": "frame",
+      "id": "eWP43",
+      "x": 0,
+      "y": 0,
+      "name": "Side 1 — Word Introduction",
+      "clip": true,
+      "width": 390,
+      "height": 844,
+      "fill": "$bg",
+      "layout": "none",
+      "children": [
+        {
+          "type": "ellipse",
+          "id": "vv6S0",
+          "x": -60,
+          "y": -40,
+          "name": "deco1",
+          "fill": "$circle-deco1",
+          "width": 220,
+          "height": 220
+        },
+        {
+          "type": "ellipse",
+          "id": "CPT3J",
+          "x": 280,
+          "y": 120,
+          "name": "deco2",
+          "fill": "$circle-deco2",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "type": "ellipse",
+          "id": "7vgly",
+          "x": -30,
+          "y": 580,
+          "name": "deco3",
+          "fill": "$circle-deco1",
+          "width": 160,
+          "height": 160
+        },
+        {
+          "type": "ellipse",
+          "id": "7DETr",
+          "x": 300,
+          "y": 700,
+          "name": "deco4",
+          "fill": "$circle-deco2",
+          "width": 140,
+          "height": 140
+        },
+        {
+          "type": "frame",
+          "id": "wggNn",
+          "x": 0,
+          "y": 0,
+          "name": "Content Wrapper",
+          "width": 390,
+          "height": 844,
+          "layout": "vertical",
+          "gap": 20,
+          "padding": [
+            0,
+            20,
+            24,
+            20
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "16vAB",
+              "name": "Status Bar",
+              "width": "fill_container",
+              "height": 62,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "otGKg",
+                  "name": "timeLabel",
+                  "fill": "$text-primary",
+                  "content": "9:41",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "d4IVI",
+              "name": "Header",
+              "width": "fill_container",
+              "height": 44,
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "dWGwX",
+                  "name": "Back Button",
+                  "width": 40,
+                  "height": 40,
+                  "fill": "$glass-bg",
+                  "cornerRadius": 20,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "$glass-border"
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000A",
+                    "offset": {
+                      "x": 0,
+                      "y": 2
+                    },
+                    "blur": 8
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "TXUIP",
+                      "x": 10,
+                      "y": 10,
+                      "name": "backIcon",
+                      "width": 20,
+                      "height": 20,
+                      "iconFontName": "chevron-left",
+                      "iconFontFamily": "lucide",
+                      "fill": "$text-primary"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "Lq61y",
+                  "name": "headerTitle",
+                  "fill": "$text-primary",
+                  "content": "Side 1 of 4",
+                  "fontFamily": "Outfit",
+                  "fontSize": 15,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "frame",
+                  "id": "zTW9p",
+                  "name": "Close Button",
+                  "width": 40,
+                  "height": 40,
+                  "fill": "$glass-bg",
+                  "cornerRadius": 20,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "$glass-border"
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000A",
+                    "offset": {
+                      "x": 0,
+                      "y": 2
+                    },
+                    "blur": 8
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "3jbH6",
+                      "x": 11,
+                      "y": 11,
+                      "name": "closeIcon",
+                      "width": 18,
+                      "height": 18,
+                      "iconFontName": "x",
+                      "iconFontFamily": "lucide",
+                      "fill": "$text-primary"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "8WRsz",
+              "name": "Progress Bar",
+              "width": "fill_container",
+              "height": 6,
+              "fill": "$glass-bg",
+              "cornerRadius": 3,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "$glass-border"
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "rectangle",
+                  "cornerRadius": 3,
+                  "id": "T4cxA",
+                  "x": 0,
+                  "y": 0,
+                  "name": "progressFill",
+                  "fill": "$primary",
+                  "width": 88,
+                  "height": 6
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Xcc6L",
+              "name": "Main Word Card",
+              "width": "fill_container",
+              "fill": "$glass-bg",
+              "cornerRadius": "$card-radius",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "$glass-border"
+              },
+              "effect": {
+                "type": "shadow",
+                "shadowType": "outer",
+                "color": "#0000000D",
+                "offset": {
+                  "x": 0,
+                  "y": 4
+                },
+                "blur": 16
+              },
+              "layout": "vertical",
+              "gap": 16,
+              "padding": [
+                32,
+                24,
+                28,
+                24
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Bew51",
+                  "name": "hebrewWord",
+                  "fill": "$text-primary",
+                  "content": "לִלְמוֹד",
+                  "fontFamily": "Outfit",
+                  "fontSize": 48,
+                  "fontWeight": "700",
+                  "letterSpacing": -1
+                },
+                {
+                  "type": "text",
+                  "id": "kpDTB",
+                  "name": "rootText",
+                  "fill": "$text-secondary",
+                  "content": "ל.מ.ד",
+                  "fontFamily": "Outfit",
+                  "fontSize": 18,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "frame",
+                  "id": "JCdoJ",
+                  "name": "Tag",
+                  "fill": "$circle-deco1",
+                  "cornerRadius": 100,
+                  "padding": [
+                    6,
+                    14
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "FcpGO",
+                      "name": "tagText",
+                      "fill": "$primary",
+                      "content": "verb, infinitive",
+                      "fontFamily": "Outfit",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "cWD0t",
+                  "name": "Audio Play Button",
+                  "width": 44,
+                  "height": 44,
+                  "fill": "$glass-bg-strong",
+                  "cornerRadius": 22,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "$glass-border"
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000A",
+                    "offset": {
+                      "x": 0,
+                      "y": 2
+                    },
+                    "blur": 8
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "QOUT6",
+                      "x": 12,
+                      "y": 12,
+                      "name": "audioIcon",
+                      "width": 20,
+                      "height": 20,
+                      "iconFontName": "volume-2",
+                      "iconFontFamily": "lucide",
+                      "fill": "$primary"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "hjoDy",
+              "name": "Section Header",
+              "width": "fill_container",
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "QqOqb",
+                  "name": "sectionTitle",
+                  "fill": "$text-primary",
+                  "content": "4 Sentences",
+                  "fontFamily": "Outfit",
+                  "fontSize": 18,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "akZPU",
+                  "name": "listenAll",
+                  "fill": "$primary",
+                  "content": "Listen All",
+                  "fontFamily": "Outfit",
+                  "fontSize": 14,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "6MJGb",
+              "name": "Sentences List",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "bJssz",
+                  "name": "Sentence 1",
+                  "width": "fill_container",
+                  "fill": "$glass-bg",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "$glass-border"
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000A",
+                    "offset": {
+                      "x": 0,
+                      "y": 2
+                    },
+                    "blur": 8
+                  },
+                  "gap": 12,
+                  "padding": [
+                    14,
+                    16
+                  ],
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "2P5EA",
+                      "name": "s1text",
+                      "fill": "$text-primary",
+                      "content": "אני לומד עברית כל יום",
+                      "fontFamily": "Outfit",
+                      "fontSize": 16,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "icon_font",
+                      "id": "RwZ7h",
+                      "name": "s1audio",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "play",
+                      "iconFontFamily": "lucide",
+                      "fill": "$primary"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "K85XC",
+                  "name": "Sentence 2",
+                  "width": "fill_container",
+                  "fill": "$glass-bg",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "$glass-border"
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000A",
+                    "offset": {
+                      "x": 0,
+                      "y": 2
+                    },
+                    "blur": 8
+                  },
+                  "gap": 12,
+                  "padding": [
+                    14,
+                    16
+                  ],
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "SJLSt",
+                      "name": "s2text",
+                      "fill": "$text-primary",
+                      "content": "היא למדה במהירות",
+                      "fontFamily": "Outfit",
+                      "fontSize": 16,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "icon_font",
+                      "id": "dYlhd",
+                      "name": "s2audio",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "play",
+                      "iconFontFamily": "lucide",
+                      "fill": "$primary"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "2vd00",
+                  "name": "Sentence 3",
+                  "width": "fill_container",
+                  "fill": "$glass-bg",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "$glass-border"
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000A",
+                    "offset": {
+                      "x": 0,
+                      "y": 2
+                    },
+                    "blur": 8
+                  },
+                  "gap": 12,
+                  "padding": [
+                    14,
+                    16
+                  ],
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "e8G1A",
+                      "name": "s3text",
+                      "fill": "$text-primary",
+                      "content": "אנחנו נלמד ביחד מחר",
+                      "fontFamily": "Outfit",
+                      "fontSize": 16,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "icon_font",
+                      "id": "NBzzi",
+                      "name": "s3audio",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "play",
+                      "iconFontFamily": "lucide",
+                      "fill": "$primary"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "6GBiC",
+                  "name": "Sentence 4",
+                  "width": "fill_container",
+                  "fill": "$glass-bg",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "$glass-border"
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#0000000A",
+                    "offset": {
+                      "x": 0,
+                      "y": 2
+                    },
+                    "blur": 8
+                  },
+                  "gap": 12,
+                  "padding": [
+                    14,
+                    16
+                  ],
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "jUZoQ",
+                      "name": "s4text",
+                      "fill": "$text-primary",
+                      "content": "הם לומדים בבית הספר",
+                      "fontFamily": "Outfit",
+                      "fontSize": 16,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "icon_font",
+                      "id": "LilmH",
+                      "name": "s4audio",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "play",
+                      "iconFontFamily": "lucide",
+                      "fill": "$primary"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "Sm7Nc",
+              "name": "points",
+              "fill": "$points-color",
+              "content": "+60 points",
+              "fontFamily": "Outfit",
+              "fontSize": 14,
+              "fontWeight": "500"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "bg": {
+      "type": "color",
+      "value": "#FDF6EE"
+    },
+    "card-radius": {
+      "type": "number",
+      "value": 20
+    },
+    "circle-deco1": {
+      "type": "color",
+      "value": "#C4712B15"
+    },
+    "circle-deco2": {
+      "type": "color",
+      "value": "#E8976315"
+    },
+    "glass-bg": {
+      "type": "color",
+      "value": "#FFFFFF73"
+    },
+    "glass-bg-strong": {
+      "type": "color",
+      "value": "#FFFFFF99"
+    },
+    "glass-border": {
+      "type": "color",
+      "value": "#FFFFFFCC"
+    },
+    "points-color": {
+      "type": "color",
+      "value": "#C4712B99"
+    },
+    "primary": {
+      "type": "color",
+      "value": "#C4712B"
+    },
+    "progress-bg": {
+      "type": "color",
+      "value": "#FFFFFF4D"
+    },
+    "text-muted": {
+      "type": "color",
+      "value": "#A0A0A0"
+    },
+    "text-primary": {
+      "type": "color",
+      "value": "#2D2D2D"
+    },
+    "text-secondary": {
+      "type": "color",
+      "value": "#7A7A7A"
+    },
+    "white": {
+      "type": "color",
+      "value": "#FFFFFF"
+    }
+  }
+}
