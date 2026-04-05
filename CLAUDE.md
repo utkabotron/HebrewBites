@@ -2,6 +2,27 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Dual-Repo Setup
+
+This project consists of two independent git repositories:
+
+| Repo | Path | Remote |
+|------|------|--------|
+| **App** (код) | `/Users/pavelbrick/Projects/09_HebrewBites/` | `utkabotron/HebrewBites` |
+| **Docs** (документация) | `/Users/pavelbrick/Projects/09_HebrewBites/TAL/` | `talmannn/hebrebites-mobile-app` |
+
+`TAL/` is in the app repo's `.gitignore` — they are fully independent.
+
+### Git operations — ALWAYS both repos
+
+When asked to **commit**, **push**, or **pull** — do it for BOTH repos:
+
+- **commit**: stage and commit in each repo separately (only if there are changes in that repo)
+- **push**: `git push` in both repos
+- **pull**: `git pull` in both repos
+
+Always run the operation in the App repo first, then in the Docs repo.
+
 ## Development Commands
 
 - `npx expo start` — start Expo dev server
