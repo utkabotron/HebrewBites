@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.env
+.env.local
+
+# Any loose key / secret files dropped into this dir
+key.txt
+*.key
+*.pem
+secrets/
+
+# Generated artifacts — do NOT commit
+fixtures/images/
+output/extractions/
+
+# Keep output/reports/ committed (per plan)
+!output/reports/
+
+# OS
+.DS_Store

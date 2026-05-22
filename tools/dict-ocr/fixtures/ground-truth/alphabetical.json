@@ -1,0 +1,16 @@
+{
+  "__instructions__": "TODO: Replace this stub with the first 15 entries from page 1 of CCF_000567.pdf. Delete the __instructions__ and __schema_example__ fields once you fill in the real data. Each entry MUST include all fields: headword_he (with nikkud), headword_he_normalized (no nikkud), grammar_tag (or null), translations (array), notes_italic (array, italic usage labels), collocations (array of {he, translation}).",
+
+  "__schema_example__": {
+    "headword_he": "אָב",
+    "headword_he_normalized": "אב",
+    "grammar_tag": "ז",
+    "translations": ["отец", "родоначальник"],
+    "notes_italic": ["книжн."],
+    "collocations": [
+      { "he": "אָב לְאֻמָּה", "translation": "отец нации" }
+    ]
+  },
+
+  "entries": []
+}

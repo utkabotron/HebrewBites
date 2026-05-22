@@ -1,0 +1,19 @@
+{
+  "__instructions__": "TODO: Replace this stub with 1–2 verbs from page 1 of CCF_000570.pdf, each with 5–7 parallel sentences. The plan suggests אבד פעל and אבד פיעל. Delete the __instructions__ and __schema_example__ fields once you fill in real data. Hebrew must include nikkud.",
+
+  "__schema_example__": {
+    "headword_he": "אָבַד",
+    "headword_he_normalized": "אבד",
+    "headword_translation_ru": "пропадать, теряться",
+    "conjugation_pattern": "פעל",
+    "examples": [
+      {
+        "ru": "Ключи пропали.",
+        "translit": "Ha-maftekhot avdu.",
+        "he": "הַמַּפְתְּחוֹת אָבְדוּ."
+      }
+    ]
+  },
+
+  "entries": []
+}
