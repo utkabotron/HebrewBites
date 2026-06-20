@@ -1,0 +1,2843 @@
+{
+  "meta": {
+    "extracted_at": "2026-05-22T14:06:00.781Z",
+    "model": "gemini-3-flash-preview",
+    "sources": [
+      "CCF_000567 p.1",
+      "CCF_000569 p.1",
+      "CCF_000570 p.1"
+    ]
+  },
+  "words": [
+    {
+      "id": "w_5db9abf8aa82",
+      "headword_he": "א",
+      "headword_clean": "א",
+      "transliteration": null,
+      "pos": "other",
+      "pos_raw": null,
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 0
+    },
+    {
+      "id": "w_ded375d03f44",
+      "headword_he": "אָב",
+      "headword_clean": "אב",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 1
+    },
+    {
+      "id": "w_df195d7d43fa",
+      "headword_he": "אָב",
+      "headword_clean": "אב",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 1,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 2
+    },
+    {
+      "id": "w_e3a819df105e",
+      "headword_he": "אִבֵּי",
+      "headword_clean": "אבי",
+      "transliteration": null,
+      "pos": "other",
+      "pos_raw": null,
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 3
+    },
+    {
+      "id": "w_031d437203e8",
+      "headword_he": "א\"ב",
+      "headword_clean": "א\"ב",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 4
+    },
+    {
+      "id": "w_1a5c5b2d70ea",
+      "headword_he": "אַבָּא",
+      "headword_clean": "אבא",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 5
+    },
+    {
+      "id": "w_371e7cef8a79",
+      "headword_he": "אַב-בֵּית-דִּין",
+      "headword_clean": "אב-בית-דינ",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 6
+    },
+    {
+      "id": "w_1156968471a5",
+      "headword_he": "אָבַד",
+      "headword_clean": "אבד",
+      "transliteration": null,
+      "pos": "verb",
+      "pos_raw": "פ'",
+      "binyan": "paal",
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 7
+    },
+    {
+      "id": "w_7e7a9e2b0914",
+      "headword_he": "אֲבֵדָה",
+      "headword_clean": "אבדה",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 8
+    },
+    {
+      "id": "w_1227506ad508",
+      "headword_he": "אֲבַדּוֹן",
+      "headword_clean": "אבדונ",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [
+        "literary"
+      ],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 9
+    },
+    {
+      "id": "w_a15d88839cc3",
+      "headword_he": "אָבָה",
+      "headword_clean": "אבה",
+      "transliteration": null,
+      "pos": "verb",
+      "pos_raw": "פ'",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [
+        "literary"
+      ],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 10
+    },
+    {
+      "id": "w_67e5eb979b20",
+      "headword_he": "אֲבָהוּת, אֲבָהוּת",
+      "headword_clean": "אבהות,אבהות",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 11
+    },
+    {
+      "id": "w_027d70398577",
+      "headword_he": "אֲבָהוּתִיּוּת",
+      "headword_clean": "אבהותיות",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 12
+    },
+    {
+      "id": "w_e5471f20fe50",
+      "headword_he": "אֲבָהִי, אֲבָהִי",
+      "headword_clean": "אבהי,אבהי",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 13
+    },
+    {
+      "id": "w_5365f0ad7705",
+      "headword_he": "אֲבִי-הָעוֹרְקִים",
+      "headword_clean": "אבי-העורקימ",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 14
+    },
+    {
+      "id": "w_1ee98bef94ce",
+      "headword_he": "אָבוּב",
+      "headword_clean": "אבוב",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 15
+    },
+    {
+      "id": "w_16af383ba091",
+      "headword_he": "אָבוּד",
+      "headword_clean": "אבוד",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 16
+    },
+    {
+      "id": "w_bb4c8f5121e0",
+      "headword_he": "אֲבוֹי",
+      "headword_clean": "אבוי",
+      "transliteration": null,
+      "pos": "other",
+      "pos_raw": "מ\"ק",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 17
+    },
+    {
+      "id": "w_b227215115be",
+      "headword_he": "אֵבוֹלוּצְיָה",
+      "headword_clean": "אבולוציה",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 18
+    },
+    {
+      "id": "w_636f1e65fa40",
+      "headword_he": "אֵבוּס",
+      "headword_clean": "אבוס",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 19
+    },
+    {
+      "id": "w_9d1a3a0f6c57",
+      "headword_he": "אֲבוֹקָדוֹ",
+      "headword_clean": "אבוקדו",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 20
+    },
+    {
+      "id": "w_665a744ed7f6",
+      "headword_he": "אֲבוּקָה",
+      "headword_clean": "אבוקה",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 21
+    },
+    {
+      "id": "w_bf5a582e0c49",
+      "headword_he": "אָבוֹת",
+      "headword_clean": "אבות",
+      "transliteration": null,
+      "pos": "other",
+      "pos_raw": "ז\"ר",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 22
+    },
+    {
+      "id": "w_a2daf73824c1",
+      "headword_he": "אֲבוֹת מָזוֹן",
+      "headword_clean": "אבותמזונ",
+      "transliteration": null,
+      "pos": "other",
+      "pos_raw": "ז\"ר",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 23
+    },
+    {
+      "id": "w_99cc16660562",
+      "headword_he": "אֲבָזָם",
+      "headword_clean": "אבזמ",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 24
+    },
+    {
+      "id": "w_3fbefc78a165",
+      "headword_he": "אֲבִיזָר",
+      "headword_clean": "אביזר",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 25
+    },
+    {
+      "id": "w_bdb3b838936b",
+      "headword_he": "אֲבִיזָרֵי בָּמָה",
+      "headword_clean": "אביזריבמה",
+      "transliteration": null,
+      "pos": "other",
+      "pos_raw": "ז\"ר",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 26
+    },
+    {
+      "id": "w_aa6e6571ebf1",
+      "headword_he": "אִבְחוּן",
+      "headword_clean": "אבחונ",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 27
+    },
+    {
+      "id": "w_fc01d8af7c4d",
+      "headword_he": "אִבְחֵן",
+      "headword_clean": "אבחנ",
+      "transliteration": null,
+      "pos": "verb",
+      "pos_raw": "פ'",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 28
+    },
+    {
+      "id": "w_b1a23633dcea",
+      "headword_he": "אֲבָחָה",
+      "headword_clean": "אבחה",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 29
+    },
+    {
+      "id": "w_828027db16e1",
+      "headword_he": "אִבְחוּנִי",
+      "headword_clean": "אבחוני",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 30
+    },
+    {
+      "id": "w_1d48ea1f4584",
+      "headword_he": "אַבְטָחָה",
+      "headword_clean": "אבטחה",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 31
+    },
+    {
+      "id": "w_6f9dee5b2510",
+      "headword_he": "אִבְטֵחַ",
+      "headword_clean": "אבטח",
+      "transliteration": null,
+      "pos": "verb",
+      "pos_raw": "פ'",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 32
+    },
+    {
+      "id": "w_a682349b84be",
+      "headword_he": "אַבְטָחָה",
+      "headword_clean": "אבטחה",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 1,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 33
+    },
+    {
+      "id": "w_25be8e04ab7f",
+      "headword_he": "אֲבַטִּיחַ",
+      "headword_clean": "אבטיח",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 34
+    },
+    {
+      "id": "w_2e4a3db19ce7",
+      "headword_he": "אֲבִי-טִיפּוּס",
+      "headword_clean": "אבי-טיפוס",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 35
+    },
+    {
+      "id": "w_fa48042d540a",
+      "headword_he": "אַבְטָלָה",
+      "headword_clean": "אבטלה",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 36
+    },
+    {
+      "id": "w_e409cb0cc6d4",
+      "headword_he": "אָבִיב",
+      "headword_clean": "אביב",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 37
+    },
+    {
+      "id": "w_04c927b32a5a",
+      "headword_he": "אֲבִיבִי",
+      "headword_clean": "אביבי",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 38
+    },
+    {
+      "id": "w_59b0aa4c1e42",
+      "headword_he": "אֲבֵידָה, אֲבֵדָה",
+      "headword_clean": "אבידה,אבדה",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 39
+    },
+    {
+      "id": "w_94cb328b3444",
+      "headword_he": "אֶבְיוֹן",
+      "headword_clean": "אביונ",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת\"ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [
+        "literary"
+      ],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 40
+    },
+    {
+      "id": "w_b34d3357f5e0",
+      "headword_he": "אֲבִיזָר",
+      "headword_clean": "אביזר",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 1,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 41
+    },
+    {
+      "id": "w_e45a057a218a",
+      "headword_he": "אֲבִיךְ",
+      "headword_clean": "אביכ",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 42
+    },
+    {
+      "id": "w_e75f9495cd0b",
+      "headword_he": "אֲבִיר",
+      "headword_clean": "אביר",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 43
+    },
+    {
+      "id": "w_150697c52482",
+      "headword_he": "אֲבִירוּת",
+      "headword_clean": "אבירות",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 44
+    },
+    {
+      "id": "w_7b851da9651e",
+      "headword_he": "אֲבִירוּתִי",
+      "headword_clean": "אבירותי",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 45
+    },
+    {
+      "id": "w_e8e7fd4ed854",
+      "headword_he": "אֲבָל",
+      "headword_clean": "אבל",
+      "transliteration": null,
+      "pos": "particle",
+      "pos_raw": "מ\"ח",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 46
+    },
+    {
+      "id": "w_1a3374e000f1",
+      "headword_he": "אֵבֶל",
+      "headword_clean": "אבל",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 1,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 47
+    },
+    {
+      "id": "w_fb792d76f7d1",
+      "headword_he": "אֵבֶל",
+      "headword_clean": "אבל",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 2,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 48
+    },
+    {
+      "id": "w_bca5f248245a",
+      "headword_he": "אֶבֶן",
+      "headword_clean": "אבנ",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 49
+    },
+    {
+      "id": "w_324254bcd633",
+      "headword_he": "אַבְנֵט",
+      "headword_clean": "אבנט",
+      "transliteration": null,
+      "pos": "noun_m",
+      "pos_raw": "ז",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 50
+    },
+    {
+      "id": "w_d10b3efcee50",
+      "headword_he": "אַבְנִי",
+      "headword_clean": "אבני",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 51
+    },
+    {
+      "id": "w_c03b1578748e",
+      "headword_he": "אַבְנִית",
+      "headword_clean": "אבנית",
+      "transliteration": null,
+      "pos": "noun_f",
+      "pos_raw": "נ",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 52
+    },
+    {
+      "id": "w_d98772414eb6",
+      "headword_he": "אַבְּסוֹלוּטִי",
+      "headword_clean": "אבסולוטי",
+      "transliteration": null,
+      "pos": "adj",
+      "pos_raw": "ת",
+      "binyan": null,
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000567",
+      "source_page": 1,
+      "source_position": 53
+    },
+    {
+      "id": "w_ce480563b879",
+      "headword_he": "אִבֵּד, לְאַבֵּד",
+      "headword_clean": "אבד",
+      "transliteration": null,
+      "pos": "verb",
+      "pos_raw": null,
+      "binyan": "piel",
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000570",
+      "source_page": 1,
+      "source_position": 1
+    },
+    {
+      "id": "w_8d3fccdb39bc",
+      "headword_he": "לִגְמֹר",
+      "headword_clean": "גמר",
+      "transliteration": "ligmor",
+      "pos": "verb",
+      "pos_raw": null,
+      "binyan": "paal",
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000569",
+      "source_page": 1,
+      "source_position": 0
+    },
+    {
+      "id": "w_5804275b9fff",
+      "headword_he": "לִגְנֹב",
+      "headword_clean": "גנב",
+      "transliteration": "lignov",
+      "pos": "verb",
+      "pos_raw": null,
+      "binyan": "paal",
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000569",
+      "source_page": 1,
+      "source_position": 1
+    },
+    {
+      "id": "w_d2d368eb1efe",
+      "headword_he": "לִגְרֹם",
+      "headword_clean": "גרמ",
+      "transliteration": "ligrom",
+      "pos": "verb",
+      "pos_raw": null,
+      "binyan": "paal",
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000569",
+      "source_page": 1,
+      "source_position": 2
+    },
+    {
+      "id": "w_c519fa159783",
+      "headword_he": "לִדְרֹס",
+      "headword_clean": "דרס",
+      "transliteration": "lidros",
+      "pos": "verb",
+      "pos_raw": null,
+      "binyan": "paal",
+      "sense_idx": 0,
+      "notes": [],
+      "source_book": "CCF_000569",
+      "source_page": 1,
+      "source_position": 3
+    }
+  ],
+  "translations": [
+    {
+      "word_id": "w_5db9abf8aa82",
+      "lang": "en",
+      "value": "alef (first letter of Hebrew alphabet)",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_5db9abf8aa82",
+      "lang": "en",
+      "value": "first",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_5db9abf8aa82",
+      "lang": "en",
+      "value": "1st",
+      "order_idx": 2
+    },
+    {
+      "word_id": "w_ded375d03f44",
+      "lang": "en",
+      "value": "father",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_ded375d03f44",
+      "lang": "en",
+      "value": "ancestor",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_df195d7d43fa",
+      "lang": "en",
+      "value": "Av (month in Hebrew calendar, July-August)",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_e3a819df105e",
+      "lang": "en",
+      "value": "at a tender age",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_e3a819df105e",
+      "lang": "en",
+      "value": "in one's prime",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_031d437203e8",
+      "lang": "en",
+      "value": "ABC",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_031d437203e8",
+      "lang": "en",
+      "value": "alphabet",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_1a5c5b2d70ea",
+      "lang": "en",
+      "value": "daddy",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1a5c5b2d70ea",
+      "lang": "en",
+      "value": "dad",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_1a5c5b2d70ea",
+      "lang": "en",
+      "value": "father",
+      "order_idx": 2
+    },
+    {
+      "word_id": "w_371e7cef8a79",
+      "lang": "en",
+      "value": "president of a court of justice",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_371e7cef8a79",
+      "lang": "en",
+      "value": "presiding judge",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_1156968471a5",
+      "lang": "en",
+      "value": "be lost",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1156968471a5",
+      "lang": "en",
+      "value": "lose",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_7e7a9e2b0914",
+      "lang": "en",
+      "value": "loss",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_7e7a9e2b0914",
+      "lang": "en",
+      "value": "lost property",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_1227506ad508",
+      "lang": "en",
+      "value": "utter destruction",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1227506ad508",
+      "lang": "en",
+      "value": "perdition",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_a15d88839cc3",
+      "lang": "en",
+      "value": "be willing",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_a15d88839cc3",
+      "lang": "en",
+      "value": "be good enough to",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_67e5eb979b20",
+      "lang": "en",
+      "value": "fatherhood",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_67e5eb979b20",
+      "lang": "en",
+      "value": "paternity",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_67e5eb979b20",
+      "lang": "en",
+      "value": "fatherliness",
+      "order_idx": 2
+    },
+    {
+      "word_id": "w_027d70398577",
+      "lang": "en",
+      "value": "paternalism",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_e5471f20fe50",
+      "lang": "en",
+      "value": "fatherly",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_e5471f20fe50",
+      "lang": "en",
+      "value": "paternal",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_5365f0ad7705",
+      "lang": "en",
+      "value": "aorta",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1ee98bef94ce",
+      "lang": "en",
+      "value": "oboe",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1ee98bef94ce",
+      "lang": "en",
+      "value": "inner tube",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_16af383ba091",
+      "lang": "en",
+      "value": "lost",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_16af383ba091",
+      "lang": "en",
+      "value": "hopeless",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_16af383ba091",
+      "lang": "en",
+      "value": "gone",
+      "order_idx": 2
+    },
+    {
+      "word_id": "w_bb4c8f5121e0",
+      "lang": "en",
+      "value": "Alas!",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_bb4c8f5121e0",
+      "lang": "en",
+      "value": "oh!",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_b227215115be",
+      "lang": "en",
+      "value": "evolution",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_636f1e65fa40",
+      "lang": "en",
+      "value": "manger",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_636f1e65fa40",
+      "lang": "en",
+      "value": "crib",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_9d1a3a0f6c57",
+      "lang": "en",
+      "value": "avocado",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_665a744ed7f6",
+      "lang": "en",
+      "value": "blazing torch",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_665a744ed7f6",
+      "lang": "en",
+      "value": "flambeau",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_bf5a582e0c49",
+      "lang": "en",
+      "value": "fathers",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_bf5a582e0c49",
+      "lang": "en",
+      "value": "ancestors",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_bf5a582e0c49",
+      "lang": "en",
+      "value": "patriarchs",
+      "order_idx": 2
+    },
+    {
+      "word_id": "w_a2daf73824c1",
+      "lang": "en",
+      "value": "essential nutrients",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_99cc16660562",
+      "lang": "en",
+      "value": "clasp, buckle",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_3fbefc78a165",
+      "lang": "en",
+      "value": "accessory, fitting",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_bdb3b838936b",
+      "lang": "en",
+      "value": "theatre props",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_aa6e6571ebf1",
+      "lang": "en",
+      "value": "diagnosing",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_aa6e6571ebf1",
+      "lang": "en",
+      "value": "diagnosis",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_fc01d8af7c4d",
+      "lang": "en",
+      "value": "diagnose",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_b1a23633dcea",
+      "lang": "en",
+      "value": "diagnosis",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_b1a23633dcea",
+      "lang": "en",
+      "value": "discrimination",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_b1a23633dcea",
+      "lang": "en",
+      "value": "perception",
+      "order_idx": 2
+    },
+    {
+      "word_id": "w_828027db16e1",
+      "lang": "en",
+      "value": "diagnostic",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1d48ea1f4584",
+      "lang": "en",
+      "value": "provision of security",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1d48ea1f4584",
+      "lang": "en",
+      "value": "protection",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_6f9dee5b2510",
+      "lang": "en",
+      "value": "provide security for",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_6f9dee5b2510",
+      "lang": "en",
+      "value": "protect",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_a682349b84be",
+      "lang": "en",
+      "value": "security (measures)",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_a682349b84be",
+      "lang": "en",
+      "value": "protection",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_25be8e04ab7f",
+      "lang": "en",
+      "value": "watermelon",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_2e4a3db19ce7",
+      "lang": "en",
+      "value": "prototype",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_fa48042d540a",
+      "lang": "en",
+      "value": "unemployment",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_e409cb0cc6d4",
+      "lang": "en",
+      "value": "spring (season)",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_04c927b32a5a",
+      "lang": "en",
+      "value": "of spring",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_04c927b32a5a",
+      "lang": "en",
+      "value": "spring-like",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_04c927b32a5a",
+      "lang": "en",
+      "value": "vernal",
+      "order_idx": 2
+    },
+    {
+      "word_id": "w_59b0aa4c1e42",
+      "lang": "en",
+      "value": "loss",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_59b0aa4c1e42",
+      "lang": "en",
+      "value": "lost property",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_94cb328b3444",
+      "lang": "en",
+      "value": "poor",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_94cb328b3444",
+      "lang": "en",
+      "value": "needy",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_94cb328b3444",
+      "lang": "en",
+      "value": "pauper",
+      "order_idx": 2
+    },
+    {
+      "word_id": "w_b34d3357f5e0",
+      "lang": "en",
+      "value": "accessory, fitting",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_e45a057a218a",
+      "lang": "en",
+      "value": "hazy",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_e75f9495cd0b",
+      "lang": "en",
+      "value": "knight",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_e75f9495cd0b",
+      "lang": "en",
+      "value": "cavalier",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_150697c52482",
+      "lang": "en",
+      "value": "chivalry",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_150697c52482",
+      "lang": "en",
+      "value": "knighthood",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_7b851da9651e",
+      "lang": "en",
+      "value": "chivalrous",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_7b851da9651e",
+      "lang": "en",
+      "value": "gallant",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_e8e7fd4ed854",
+      "lang": "en",
+      "value": "but",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1a3374e000f1",
+      "lang": "en",
+      "value": "in mourning",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1a3374e000f1",
+      "lang": "en",
+      "value": "mourner",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_fb792d76f7d1",
+      "lang": "en",
+      "value": "mourning",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_fb792d76f7d1",
+      "lang": "en",
+      "value": "grief",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_bca5f248245a",
+      "lang": "en",
+      "value": "stone",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_324254bcd633",
+      "lang": "en",
+      "value": "girdle",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_324254bcd633",
+      "lang": "en",
+      "value": "sash",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_d10b3efcee50",
+      "lang": "en",
+      "value": "of stone, stony",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_c03b1578748e",
+      "lang": "en",
+      "value": "fur (in kettle, pipe, etc.)",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_c03b1578748e",
+      "lang": "en",
+      "value": "tartar",
+      "order_idx": 1
+    },
+    {
+      "word_id": "w_d98772414eb6",
+      "lang": "en",
+      "value": "absolute",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_1156968471a5",
+      "lang": "ru",
+      "value": "Пропадать, теряться",
+      "order_idx": 0
+    },
+    {
+      "word_id": "w_ce480563b879",
+      "lang": "ru",
+      "value": "Терять",
+      "order_idx": 0
+    }
+  ],
+  "collocations": [
+    {
+      "id": "c_660949072825",
+      "parent_word_id": "w_5db9abf8aa82",
+      "phrase_he": "יוֹם א'",
+      "phrase_clean": "יומא'",
+      "translation": "Sunday",
+      "lang": "en"
+    },
+    {
+      "id": "c_5d84ec70b85e",
+      "parent_word_id": "w_5db9abf8aa82",
+      "phrase_he": "מֵא' וְעַד ת'",
+      "phrase_clean": "מא'ועדת'",
+      "translation": "from A to Z",
+      "lang": "en"
+    },
+    {
+      "id": "c_838ab5489fc8",
+      "parent_word_id": "w_ded375d03f44",
+      "phrase_he": "אֲבוֹת",
+      "phrase_clean": "אבות",
+      "translation": "patriarchs (pl.)",
+      "lang": "en"
+    },
+    {
+      "id": "c_ba57cacbdf9a",
+      "parent_word_id": "w_ded375d03f44",
+      "phrase_he": "אָב חוֹרֵג",
+      "phrase_clean": "אבחורג",
+      "translation": "stepfather",
+      "lang": "en"
+    },
+    {
+      "id": "c_515f7c550a1e",
+      "parent_word_id": "w_df195d7d43fa",
+      "phrase_he": "תִּשְׁעָה בְּאָב",
+      "phrase_clean": "תשעהבאב",
+      "translation": "(fast commemorating destruction of Temple) 9th of Av",
+      "lang": "en"
+    },
+    {
+      "id": "c_3fb4d281c7c9",
+      "parent_word_id": "w_e3a819df105e",
+      "phrase_he": "בְּאִבּוֹ",
+      "phrase_clean": "באבו",
+      "translation": "at a tender age; in one's prime",
+      "lang": "en"
+    },
+    {
+      "id": "c_d79d1b7e77e8",
+      "parent_word_id": "w_e3a819df105e",
+      "phrase_he": "קָטַע, חִיסֵּל, חָנַק וכו' בְּאִבּוֹ",
+      "phrase_clean": "קטע,חיסל,חנקוכו'באבו",
+      "translation": "scotch, nip in the bud",
+      "lang": "en"
+    },
+    {
+      "id": "c_c2d4ddd1ff92",
+      "parent_word_id": "w_1156968471a5",
+      "phrase_he": "לְאֱבוֹד ל-",
+      "phrase_clean": "לאבודל-",
+      "translation": "be lost; lose",
+      "lang": "en"
+    },
+    {
+      "id": "c_b51ba82c4328",
+      "parent_word_id": "w_1156968471a5",
+      "phrase_he": "אָבַד עָלָיו הַכֶּלַח",
+      "phrase_clean": "אבדעליוהכלח",
+      "translation": "be obsolete, be outworn",
+      "lang": "en"
+    },
+    {
+      "id": "c_e576bbe22038",
+      "parent_word_id": "w_1156968471a5",
+      "phrase_he": "כַּאֲשֶׁר אָבַדְתִּי אָבָדְתִּי",
+      "phrase_clean": "כאשראבדתיאבדתי",
+      "translation": "there's no help for it (literary)",
+      "lang": "en"
+    },
+    {
+      "id": "c_314b2551eff1",
+      "parent_word_id": "w_a15d88839cc3",
+      "phrase_he": "י' (לֶאֱבוֹת)",
+      "phrase_clean": "י'(לאבות)",
+      "translation": "enough to (literary)",
+      "lang": "en"
+    },
+    {
+      "id": "c_0c6654d9ec6f",
+      "parent_word_id": "w_bf5a582e0c49",
+      "phrase_he": "א' ז.",
+      "phrase_clean": "א'ז.",
+      "translation": "fathers; ancestors; patriarchs",
+      "lang": "en"
+    },
+    {
+      "id": "c_f268cdf37500",
+      "parent_word_id": "w_bf5a582e0c49",
+      "phrase_he": "אָבוֹת אָכְלוּ בּוֹסֶר וְשִׁנֵּי בָנִים תִּקְהֶינָה",
+      "phrase_clean": "אבותאכלובוסרושניבנימתקהינה",
+      "translation": "children suffer for their parents' sins (literary)",
+      "lang": "en"
+    },
+    {
+      "id": "c_5b9e7cacf569",
+      "parent_word_id": "w_fc01d8af7c4d",
+      "phrase_he": "לְאַבְחֵן",
+      "phrase_clean": "לאבחנ",
+      "translation": "diagnose",
+      "lang": "en"
+    },
+    {
+      "id": "c_8a67f91758f0",
+      "parent_word_id": "w_6f9dee5b2510",
+      "phrase_he": "לְאַבְטֵחַ",
+      "phrase_clean": "לאבטח",
+      "translation": "provide security for, protect",
+      "lang": "en"
+    },
+    {
+      "id": "c_9c3fe4bfc23e",
+      "parent_word_id": "w_a682349b84be",
+      "phrase_he": "אַבְטָחַת מְקוֹם עֲבוֹדָה",
+      "phrase_clean": "אבטחתמקומעבודה",
+      "translation": "job security",
+      "lang": "en"
+    },
+    {
+      "id": "c_15c88ca26cb2",
+      "parent_word_id": "w_fa48042d540a",
+      "phrase_he": "דְּמֵי אַבְטָלָה",
+      "phrase_clean": "דמיאבטלה",
+      "translation": "unemployment benefit",
+      "lang": "en"
+    },
+    {
+      "id": "c_6252d2b61d04",
+      "parent_word_id": "w_e409cb0cc6d4",
+      "phrase_he": "אֲבִיב-יָמָיו",
+      "phrase_clean": "אביב-ימיו",
+      "translation": "the springtime of his life",
+      "lang": "en"
+    },
+    {
+      "id": "c_4ee5c3d000b2",
+      "parent_word_id": "w_59b0aa4c1e42",
+      "phrase_he": "אֲבֵידוֹת",
+      "phrase_clean": "אבידות",
+      "translation": "casualties, losses",
+      "lang": "en"
+    },
+    {
+      "id": "c_d2e070f7127f",
+      "parent_word_id": "w_1a3374e000f1",
+      "phrase_he": "אֵבֶל וַחֲפוּי רֹאשׁ",
+      "phrase_clean": "אבלוחפויראש",
+      "translation": "in grief and shame",
+      "lang": "en"
+    },
+    {
+      "id": "c_bdeb7af779cc",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֲבָנִים, אַבְנֵי-",
+      "phrase_clean": "אבנימ,אבני-",
+      "translation": "stone",
+      "lang": "en"
+    },
+    {
+      "id": "c_18536fe1af74",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-בּוֹחַן",
+      "phrase_clean": "אבנ-בוחנ",
+      "translation": "touchstone, criterion",
+      "lang": "en"
+    },
+    {
+      "id": "c_3f4552e5400d",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-חֵן",
+      "phrase_clean": "אבנ-חנ",
+      "translation": "precious stone, gem",
+      "lang": "en"
+    },
+    {
+      "id": "c_46af904c7e76",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן טוֹבָה",
+      "phrase_clean": "אבנטובה",
+      "translation": "precious stone, gem",
+      "lang": "en"
+    },
+    {
+      "id": "c_3a6ac568732a",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-יְסוֹד",
+      "phrase_clean": "אבנ-יסוד",
+      "translation": "cornerstone",
+      "lang": "en"
+    },
+    {
+      "id": "c_fadfe1592321",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן יְקָרָה",
+      "phrase_clean": "אבניקרה",
+      "translation": "precious stone, gem",
+      "lang": "en"
+    },
+    {
+      "id": "c_8022fed572be",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-כִּלְיָה",
+      "phrase_clean": "אבנ-כליה",
+      "translation": "kidney stone",
+      "lang": "en"
+    },
+    {
+      "id": "c_4148461f7864",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-מָרָה",
+      "phrase_clean": "אבנ-מרה",
+      "translation": "gallstone",
+      "lang": "en"
+    },
+    {
+      "id": "c_374a0915bea1",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-מַשְׁחֶזֶת",
+      "phrase_clean": "אבנ-משחזת",
+      "translation": "grindstone",
+      "lang": "en"
+    },
+    {
+      "id": "c_34ed1484991a",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן נָגְלָה מֵעַל לִבִּי",
+      "phrase_clean": "אבננגלהמעללבי",
+      "translation": "That's a weight off my mind (literary)",
+      "lang": "en"
+    },
+    {
+      "id": "c_d4b2619c564a",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-נֶגֶף",
+      "phrase_clean": "אבנ-נגפ",
+      "translation": "stumbling block, pitfall",
+      "lang": "en"
+    },
+    {
+      "id": "c_440607bcb02c",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-פִּינָּה",
+      "phrase_clean": "אבנ-פינה",
+      "translation": "cornerstone",
+      "lang": "en"
+    },
+    {
+      "id": "c_bc3334d85e3e",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-רֵיחַיִים",
+      "phrase_clean": "אבנ-ריחיימ",
+      "translation": "millstone",
+      "lang": "en"
+    },
+    {
+      "id": "c_8cfdeb110eb2",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-שֵׁינַּיִים",
+      "phrase_clean": "אבנ-שיניימ",
+      "translation": "tartar (on teeth)",
+      "lang": "en"
+    },
+    {
+      "id": "c_eb531043a245",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "אֶבֶן-שָׂפָה",
+      "phrase_clean": "אבנ-שפה",
+      "translation": "kerbstone, curbstone",
+      "lang": "en"
+    },
+    {
+      "id": "c_1971468e52c9",
+      "parent_word_id": "w_bca5f248245a",
+      "phrase_he": "כְּאֶבֶן שֶׁאֵין לָהּ הוֹפְכִין",
+      "phrase_clean": "כאבנשאינלההופכינ",
+      "translation": "useless, untouched, ignored",
+      "lang": "en"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e_9602bf97c822",
+      "word_id": "w_1156968471a5",
+      "sentence_he": "הַיּוֹם אָבַד לָהּ תִּיק, וְהִיא מְאוֹד עֲצוּבָה בִּגְלַל זֶה.",
+      "sentence_translit": "ha-йом авад ла тик, вэ-hи мэод ацува биглаль зэ.",
+      "sentence_ru": "Сегодня у неё потерялась сумка, и она очень расстроилась из-за этого.",
+      "order_idx": 0
+    },
+    {
+      "id": "e_e776d2052852",
+      "word_id": "w_1156968471a5",
+      "sentence_he": "הַמַּפְתְּחוֹת אָבְדוּ לִי וַאֲנִי לֹא יוֹדֵעַ כֵּיצַד אַצְלִיחַ לְהִיכָּנֵס הַבַּיְתָה.",
+      "sentence_translit": "hа-мафтэхот авду ли вэ-ани ло йодэа кэйцад ацлиах леhиканэс hа-байта.",
+      "sentence_ru": "У меня потерялись ключи, и я не знаю, как я смогу попасть домой.",
+      "order_idx": 1
+    },
+    {
+      "id": "e_69b96fd2c4e8",
+      "word_id": "w_1156968471a5",
+      "sentence_he": "כְּבָר מִזְּמַן אָבְדָה לִי הַתִּקְוָה לְהִתְעַשֵּׁר בְּקַלּוּת.",
+      "sentence_translit": "квар ми-зман авда ли hа-тиква леhит'ашэр бэ-калут.",
+      "sentence_ru": "Я уже давно потерял надежду легко разбогатеть.",
+      "order_idx": 2
+    },
+    {
+      "id": "e_b4bd1f742e73",
+      "word_id": "w_1156968471a5",
+      "sentence_he": "קְבוּצַת מְטַיְּילִים אָבְדָה בְּמִדְבַּר יְהוּדָה וּכְדֵי לְאַתֵּר אוֹתָהּ הוּזְעַק צֶוֶות חִילּוּץ.",
+      "sentence_translit": "вквуцат мэтайлим авда бэ-мидбар йеhуда у-хэдэй леатэр ота hузак цэвэт хилуц.",
+      "sentence_ru": "Группа туристов потерялась в Иудейской пустыне, и, чтобы найти их, была вызвана группа спасателей.",
+      "order_idx": 3
+    },
+    {
+      "id": "e_06d5bd5e7d54",
+      "word_id": "w_1156968471a5",
+      "sentence_he": "הַתַּרְבּוּת הָאַצְטֶקִית הָעַתִּיקָה כִּמְעַט אָבְדָה מֵהָעוֹלָם.",
+      "sentence_translit": "hа-тарбут hа-ацтэкит hа-атика ким'ат авда мэ-hа-олам.",
+      "sentence_ru": "Древняя культура ацтеков почти исчезла с лица земли.",
+      "order_idx": 4
+    },
+    {
+      "id": "e_cdbd45fa04e2",
+      "word_id": "w_ce480563b879",
+      "sentence_he": "הוּא אִיבֵּד אֶת אַרְנָקוֹ וְנֶאֱלַץ לְבַטֵּל אֶת כַּרְטִיסֵי הָאַשְׁרַאי שֶׁהָיוּ בּוֹ.",
+      "sentence_translit": "hу ибэд эт арнако вэ-нээлац леватэль эт картисэй hа-ашрай шэ-hайу бо.",
+      "sentence_ru": "Он потерял кошелёк и ему пришлось отменить находившиеся в нём кредитные карточки.",
+      "order_idx": 0
+    },
+    {
+      "id": "e_d022be6af11d",
+      "word_id": "w_ce480563b879",
+      "sentence_he": "הִיא אִיבְּדָה אֶת תִּקְוָתָהּ לְהִתְקַבֵּל לָאוּנִיבֶרְסִיטָה מִפְּנֵי שֶׁשּׁוּב נִכְשְׁלָה בַּבְּחִינָה הַפְּסִיכוֹמֶטְרִית.",
+      "sentence_translit": "hи ибда эт тикват_а леhиткабэль ле-унивэрсита мипнэй шэ-шув нихшэла ба-бхина hа-психомэтрит.",
+      "sentence_ru": "Она потеряла надежду поступить в университет, потому что в очередной раз провалила психотест.",
+      "order_idx": 1
+    },
+    {
+      "id": "e_c546d7e1e0e0",
+      "word_id": "w_ce480563b879",
+      "sentence_he": "אִיבַּדְתִּי אֶת זְכוּתִי לַהֲנָחָה בִּקְנִיַּית רֶכֶב, לְאַחַר שֶׁפָּג תּוֹקְפָהּ שֶׁל הַזַּכָּאוּת שֶׁלִּי.",
+      "sentence_translit": "ибадти эт зхути ла-hанаха би-кният рэхэв лэахар шэ-паг токпа шэли hа-закаут шэли.",
+      "sentence_ru": "Я потерял своё право на скидку при покупке новой машины после того, как истёк срок моих прав на её получение.",
+      "order_idx": 2
+    },
+    {
+      "id": "e_a44b28a78f33",
+      "word_id": "w_ce480563b879",
+      "sentence_he": "סָבְתָא שֶׁלִּי אִיבְּדָה אֶת כָּל מִשְׁפַּחְתָּהּ בַּשּׁוֹאָה.",
+      "sentence_translit": "савта шэли ибда эт коль мишпахта ба-шоа.",
+      "sentence_ru": "Моя бабушка потеряла всю свою семью во время Катастрофы.",
+      "order_idx": 3
+    },
+    {
+      "id": "e_db82a674ef6f",
+      "word_id": "w_ce480563b879",
+      "sentence_he": "לִפְנֵי שָׁלוֹשׁ שָׁנִים אֲחוֹתִי אִיבְּדָה אֶת בַּעֲלָהּ בִּתְאוּנַת דְּרָכִים.",
+      "sentence_translit": "лифнэй шалош шаним ахоти ибда эт баала би-тэунат драхим.",
+      "sentence_ru": "Три года назад моя сестра потеряла мужа в автокатастрофе.",
+      "order_idx": 4
+    },
+    {
+      "id": "e_db9addfa2a90",
+      "word_id": "w_ce480563b879",
+      "sentence_he": "הֶעֱפַנּוּ עֲפִיפוֹנִים בְּחוֹף הַיָּם. תְּחִילָּה הֵם נָסְקוּ גָּבוֹהַּ, אַךְ אַחַר כָּךְ אִיבְּדוּ גּוֹבַהּ וְהִתְרַסְּקוּ.",
+      "sentence_translit": "hээфну афифоним бэ-хоф hа-ям. тхила hэм наску гавоhа, ах ахар ках ибду гова вэ-hитраску.",
+      "sentence_ru": "Мы запускали воздушные змеи на берегу моря. Сначала они взлетали высоко, а потом теряли высоту и падали.",
+      "order_idx": 5
+    },
+    {
+      "id": "e_b47a09939a5f",
+      "word_id": "w_ce480563b879",
+      "sentence_he": "הַחַיָּיל אִיבֵּד דָּם רַב, אַךְ פְּצִיעָתוֹ לֹא הָיְתָה אֲנוּשָׁה.",
+      "sentence_translit": "hа-хаяль ибэд дам рав ах пциато ло hайта ануша.",
+      "sentence_ru": "Солдат потерял много крови, но рана его не была смертельной.",
+      "order_idx": 6
+    }
+  ],
+  "conjugations": [
+    {
+      "id": "cj_180fa08a0b1a",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "אני",
+      "form_he": "גָּמַרְתִּי",
+      "form_translit": "gamarti"
+    },
+    {
+      "id": "cj_c44a7afb9e81",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "אתה",
+      "form_he": "גָּמַרְתָּ",
+      "form_translit": "gamarta"
+    },
+    {
+      "id": "cj_063f2f2f4d89",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "את",
+      "form_he": "גָּמַרְתְּ",
+      "form_translit": "gamart"
+    },
+    {
+      "id": "cj_6727bee94371",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "הוא",
+      "form_he": "גָּמַר",
+      "form_translit": "gamar"
+    },
+    {
+      "id": "cj_a7640d230b3b",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "היא",
+      "form_he": "גָּמְרָה",
+      "form_translit": "gamra"
+    },
+    {
+      "id": "cj_897625ae1b47",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "אנחנו",
+      "form_he": "גָּמַרְנוּ",
+      "form_translit": "gamarnu"
+    },
+    {
+      "id": "cj_0bf8a4daa217",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "אתם",
+      "form_he": "גְּמַרְתֶּם",
+      "form_translit": "gmartem"
+    },
+    {
+      "id": "cj_904ec38300db",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "אתן",
+      "form_he": "גְּמַרְתֶּן",
+      "form_translit": "gmarten"
+    },
+    {
+      "id": "cj_4c6638a091be",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "הם",
+      "form_he": "גָּמְרוּ",
+      "form_translit": "gamru"
+    },
+    {
+      "id": "cj_2c96645b80f4",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "past",
+      "person": "הן",
+      "form_he": "גָּמְרוּ",
+      "form_translit": "gamru"
+    },
+    {
+      "id": "cj_a5c41a75e433",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "present",
+      "person": "אני",
+      "form_he": "גּוֹמֵר",
+      "form_translit": "gomer"
+    },
+    {
+      "id": "cj_3a964915b564",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "present",
+      "person": "אתה",
+      "form_he": "גּוֹמֵר",
+      "form_translit": "gomer"
+    },
+    {
+      "id": "cj_a23a95e9a5dd",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "present",
+      "person": "את",
+      "form_he": "גּוֹמֶרֶת",
+      "form_translit": "gomeret"
+    },
+    {
+      "id": "cj_c6bf08e87f64",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "present",
+      "person": "הוא",
+      "form_he": "גּוֹמֵר",
+      "form_translit": "gomer"
+    },
+    {
+      "id": "cj_3c5af59cdd32",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "present",
+      "person": "היא",
+      "form_he": "גּוֹמֶרֶת",
+      "form_translit": "gomeret"
+    },
+    {
+      "id": "cj_456ef35a7819",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "present",
+      "person": "אנחנו",
+      "form_he": "גּוֹמְרִים",
+      "form_translit": "gomrim"
+    },
+    {
+      "id": "cj_243bf185aba7",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "present",
+      "person": "אתם",
+      "form_he": "גּוֹמְרִים",
+      "form_translit": "gomrim"
+    },
+    {
+      "id": "cj_013078cecb01",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "present",
+      "person": "אתן",
+      "form_he": "גּוֹמְרוֹת",
+      "form_translit": "gomrot"
+    },
+    {
+      "id": "cj_1de37cd107bf",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "אני",
+      "form_he": "אֶגְמֹר",
+      "form_translit": "egmor"
+    },
+    {
+      "id": "cj_86ddfe161894",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "אתה",
+      "form_he": "תִּגְמֹר",
+      "form_translit": "tigmor"
+    },
+    {
+      "id": "cj_8126ace09ae2",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "את",
+      "form_he": "תִּגְמְרִי",
+      "form_translit": "tigmery"
+    },
+    {
+      "id": "cj_751314d95728",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "הוא",
+      "form_he": "יִגְמֹר",
+      "form_translit": "yigmor"
+    },
+    {
+      "id": "cj_7702336a0075",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "היא",
+      "form_he": "תִּגְמֹר",
+      "form_translit": "tigmor"
+    },
+    {
+      "id": "cj_3ee3f7c5695e",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "אנחנו",
+      "form_he": "נִגְמֹר",
+      "form_translit": "nigmor"
+    },
+    {
+      "id": "cj_e9181ea26af4",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "אתם",
+      "form_he": "תִּגְמְרוּ",
+      "form_translit": "tigmru"
+    },
+    {
+      "id": "cj_86e26f41e7d6",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "אתן",
+      "form_he": "תִּגְמְרוּ",
+      "form_translit": "tigmru"
+    },
+    {
+      "id": "cj_6d633d99bb84",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "הם",
+      "form_he": "יִגְמְרוּ",
+      "form_translit": "yigmru"
+    },
+    {
+      "id": "cj_176066b83144",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "future",
+      "person": "הן",
+      "form_he": "יִגְמְרוּ",
+      "form_translit": "yigmru"
+    },
+    {
+      "id": "cj_faaa18062c51",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "imperative",
+      "person": "אתה",
+      "form_he": "גְּמֹר",
+      "form_translit": "gmor"
+    },
+    {
+      "id": "cj_64787d15477f",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "imperative",
+      "person": "את",
+      "form_he": "גִּמְרִי",
+      "form_translit": "gimri"
+    },
+    {
+      "id": "cj_2b37bcdb4696",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "imperative",
+      "person": "אתם",
+      "form_he": "גִּמְרוּ",
+      "form_translit": "gimru"
+    },
+    {
+      "id": "cj_ae69ee337150",
+      "word_id": "w_8d3fccdb39bc",
+      "tense": "imperative",
+      "person": "אתן",
+      "form_he": "גִּמְרוּ",
+      "form_translit": "gimru"
+    },
+    {
+      "id": "cj_9171daed38a9",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "אני",
+      "form_he": "גָּנַבְתִּי",
+      "form_translit": "ganavti"
+    },
+    {
+      "id": "cj_9aff95619b4b",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "אתה",
+      "form_he": "גָּנַבְתָּ",
+      "form_translit": "ganavta"
+    },
+    {
+      "id": "cj_8ff6a1d14e2d",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "את",
+      "form_he": "גָּנַבְתְּ",
+      "form_translit": "ganavt"
+    },
+    {
+      "id": "cj_7f6a0337b91f",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "הוא",
+      "form_he": "גָּנַב",
+      "form_translit": "ganav"
+    },
+    {
+      "id": "cj_0059023410eb",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "היא",
+      "form_he": "גָּנְבָה",
+      "form_translit": "ganva"
+    },
+    {
+      "id": "cj_6f6c54001870",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "אנחנו",
+      "form_he": "גָּנַבְנוּ",
+      "form_translit": "ganavnu"
+    },
+    {
+      "id": "cj_e7ee3d7066e4",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "אתם",
+      "form_he": "גְּנַבְתֶּם",
+      "form_translit": "gnavtem"
+    },
+    {
+      "id": "cj_e8a3555597f0",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "אתן",
+      "form_he": "גְּנַבְתֶּן",
+      "form_translit": "gnavten"
+    },
+    {
+      "id": "cj_bc41e2b28eec",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "הם",
+      "form_he": "גָּנְבוּ",
+      "form_translit": "ganvu"
+    },
+    {
+      "id": "cj_7c9c62c60bad",
+      "word_id": "w_5804275b9fff",
+      "tense": "past",
+      "person": "הן",
+      "form_he": "גָּנְבוּ",
+      "form_translit": "ganvu"
+    },
+    {
+      "id": "cj_0891055fe551",
+      "word_id": "w_5804275b9fff",
+      "tense": "present",
+      "person": "אני",
+      "form_he": "גּוֹנֵב",
+      "form_translit": "gonev"
+    },
+    {
+      "id": "cj_a31328caab30",
+      "word_id": "w_5804275b9fff",
+      "tense": "present",
+      "person": "אתה",
+      "form_he": "גּוֹנֵב",
+      "form_translit": "gonev"
+    },
+    {
+      "id": "cj_6232410a7949",
+      "word_id": "w_5804275b9fff",
+      "tense": "present",
+      "person": "את",
+      "form_he": "גּוֹנֶבֶת",
+      "form_translit": "gonevet"
+    },
+    {
+      "id": "cj_a9526d4b1cb3",
+      "word_id": "w_5804275b9fff",
+      "tense": "present",
+      "person": "הוא",
+      "form_he": "גּוֹנֵב",
+      "form_translit": "gonev"
+    },
+    {
+      "id": "cj_f64252a47299",
+      "word_id": "w_5804275b9fff",
+      "tense": "present",
+      "person": "היא",
+      "form_he": "גּוֹנֶבֶת",
+      "form_translit": "gonevet"
+    },
+    {
+      "id": "cj_65e4ac756c72",
+      "word_id": "w_5804275b9fff",
+      "tense": "present",
+      "person": "אנחנו",
+      "form_he": "גּוֹנְבִים",
+      "form_translit": "gonvim"
+    },
+    {
+      "id": "cj_0ebe341e75ea",
+      "word_id": "w_5804275b9fff",
+      "tense": "present",
+      "person": "אתם",
+      "form_he": "גּוֹנְבִים",
+      "form_translit": "gonvim"
+    },
+    {
+      "id": "cj_ac6484c74569",
+      "word_id": "w_5804275b9fff",
+      "tense": "present",
+      "person": "אתן",
+      "form_he": "גּוֹנְבוֹת",
+      "form_translit": "gonvot"
+    },
+    {
+      "id": "cj_bab2a6e9fe9e",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "אני",
+      "form_he": "אֶגְנֹב",
+      "form_translit": "egnov"
+    },
+    {
+      "id": "cj_e9b4b646d4a4",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "אתה",
+      "form_he": "תִּגְנֹב",
+      "form_translit": "tignov"
+    },
+    {
+      "id": "cj_0587eeabf2e0",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "את",
+      "form_he": "תִּגְנְבִי",
+      "form_translit": "tignevi"
+    },
+    {
+      "id": "cj_228420241d89",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "הוא",
+      "form_he": "יִגְנֹב",
+      "form_translit": "yignov"
+    },
+    {
+      "id": "cj_023f81ac5e19",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "היא",
+      "form_he": "תִּגְנֹב",
+      "form_translit": "tignov"
+    },
+    {
+      "id": "cj_1b1baa50246c",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "אנחנו",
+      "form_he": "נִגְנֹב",
+      "form_translit": "nignov"
+    },
+    {
+      "id": "cj_2c2bbe1929da",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "אתם",
+      "form_he": "תִּגְנְבוּ",
+      "form_translit": "tignevu"
+    },
+    {
+      "id": "cj_a016035e603e",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "אתן",
+      "form_he": "תִּגְנְבוּ",
+      "form_translit": "tignevu"
+    },
+    {
+      "id": "cj_488b6334f23e",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "הם",
+      "form_he": "יִגְנְבוּ",
+      "form_translit": "yignevu"
+    },
+    {
+      "id": "cj_ab3f4e7928a1",
+      "word_id": "w_5804275b9fff",
+      "tense": "future",
+      "person": "הן",
+      "form_he": "יִגְנְבוּ",
+      "form_translit": "yignevu"
+    },
+    {
+      "id": "cj_9cb7dff2b1a6",
+      "word_id": "w_5804275b9fff",
+      "tense": "imperative",
+      "person": "אתה",
+      "form_he": "גְּנֹב",
+      "form_translit": "gnob"
+    },
+    {
+      "id": "cj_53c698431295",
+      "word_id": "w_5804275b9fff",
+      "tense": "imperative",
+      "person": "את",
+      "form_he": "גִּנְבִי",
+      "form_translit": "ginvi"
+    },
+    {
+      "id": "cj_dc6af334860b",
+      "word_id": "w_5804275b9fff",
+      "tense": "imperative",
+      "person": "אתם",
+      "form_he": "גִּנְבוּ",
+      "form_translit": "ginvu"
+    },
+    {
+      "id": "cj_dc0696e7e8cd",
+      "word_id": "w_5804275b9fff",
+      "tense": "imperative",
+      "person": "אתן",
+      "form_he": "גִּנְבוּ",
+      "form_translit": "ginvu"
+    },
+    {
+      "id": "cj_7c674cd3ec3c",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "אני",
+      "form_he": "גָּרַמְתִּי",
+      "form_translit": "garamti"
+    },
+    {
+      "id": "cj_828296af27cb",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "אתה",
+      "form_he": "גָּרַמְתָּ",
+      "form_translit": "garamta"
+    },
+    {
+      "id": "cj_a44836b4cf6b",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "את",
+      "form_he": "גָּרַמְתְּ",
+      "form_translit": "garamt"
+    },
+    {
+      "id": "cj_80505abd6278",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "הוא",
+      "form_he": "גָּרַם",
+      "form_translit": "garam"
+    },
+    {
+      "id": "cj_ddc8babaad29",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "היא",
+      "form_he": "גָּרְמָה",
+      "form_translit": "garma"
+    },
+    {
+      "id": "cj_ee1df140c823",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "אנחנו",
+      "form_he": "גָּרַמְנוּ",
+      "form_translit": "garamnu"
+    },
+    {
+      "id": "cj_433dbaea3090",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "אתם",
+      "form_he": "גְּרַמְתֶּם",
+      "form_translit": "gramtem"
+    },
+    {
+      "id": "cj_b18a9edc068b",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "אתן",
+      "form_he": "גְּרַמְתֶּן",
+      "form_translit": "gramten"
+    },
+    {
+      "id": "cj_67469c166c1a",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "הם",
+      "form_he": "גָּרְמוּ",
+      "form_translit": "garmu"
+    },
+    {
+      "id": "cj_119997b6fdb8",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "past",
+      "person": "הן",
+      "form_he": "גָּרְמוּ",
+      "form_translit": "garmu"
+    },
+    {
+      "id": "cj_e12da37aa9de",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "present",
+      "person": "אני",
+      "form_he": "גּוֹרֵם",
+      "form_translit": "gorem"
+    },
+    {
+      "id": "cj_cfc717708ae7",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "present",
+      "person": "אתה",
+      "form_he": "גּוֹרֵם",
+      "form_translit": "gorem"
+    },
+    {
+      "id": "cj_8af16f154351",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "present",
+      "person": "את",
+      "form_he": "גּוֹרֶמֶת",
+      "form_translit": "goremet"
+    },
+    {
+      "id": "cj_886ff1532b48",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "present",
+      "person": "הוא",
+      "form_he": "גּוֹרֵם",
+      "form_translit": "gorem"
+    },
+    {
+      "id": "cj_36be9281db28",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "present",
+      "person": "היא",
+      "form_he": "גּוֹרֶמֶת",
+      "form_translit": "goremet"
+    },
+    {
+      "id": "cj_4c701c75bdf6",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "present",
+      "person": "אנחנו",
+      "form_he": "גּוֹרְמִים",
+      "form_translit": "gormim"
+    },
+    {
+      "id": "cj_632bace719b2",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "present",
+      "person": "אתם",
+      "form_he": "גּוֹרְמִים",
+      "form_translit": "gormim"
+    },
+    {
+      "id": "cj_15212924d12e",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "present",
+      "person": "אתן",
+      "form_he": "גּוֹרְמוֹת",
+      "form_translit": "gormot"
+    },
+    {
+      "id": "cj_b22eafad72a9",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "אני",
+      "form_he": "אֶגְרֹם",
+      "form_translit": "egrom"
+    },
+    {
+      "id": "cj_751c637087ae",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "אתה",
+      "form_he": "תִּגְרֹם",
+      "form_translit": "tigrom"
+    },
+    {
+      "id": "cj_e2eafd63d6ae",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "את",
+      "form_he": "תִּגְרְמִי",
+      "form_translit": "tigremi"
+    },
+    {
+      "id": "cj_2c43f27aaf1e",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "הוא",
+      "form_he": "יִגְרֹם",
+      "form_translit": "yigrom"
+    },
+    {
+      "id": "cj_37dc2b45682e",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "היא",
+      "form_he": "תִּגְרֹם",
+      "form_translit": "tigrom"
+    },
+    {
+      "id": "cj_9368bcbc8870",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "אנחנו",
+      "form_he": "נִגְרֹם",
+      "form_translit": "nigrom"
+    },
+    {
+      "id": "cj_2d642bcd635d",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "אתם",
+      "form_he": "תִּגְרְמוּ",
+      "form_translit": "tigremu"
+    },
+    {
+      "id": "cj_a75421b8a327",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "אתן",
+      "form_he": "תִּגְרְמוּ",
+      "form_translit": "tigremu"
+    },
+    {
+      "id": "cj_dc95296fbe8c",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "הם",
+      "form_he": "יִגְרְמוּ",
+      "form_translit": "yigremu"
+    },
+    {
+      "id": "cj_f569c8dc4d79",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "future",
+      "person": "הן",
+      "form_he": "יִגְרְמוּ",
+      "form_translit": "yigremu"
+    },
+    {
+      "id": "cj_681bb5caa632",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "imperative",
+      "person": "אתה",
+      "form_he": "גְּרֹם",
+      "form_translit": "grom"
+    },
+    {
+      "id": "cj_ba970bc51ed0",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "imperative",
+      "person": "את",
+      "form_he": "גִּרְמִי",
+      "form_translit": "girmi"
+    },
+    {
+      "id": "cj_061b58ba2186",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "imperative",
+      "person": "אתם",
+      "form_he": "גִּרְמוּ",
+      "form_translit": "girmu"
+    },
+    {
+      "id": "cj_fdd956a77e39",
+      "word_id": "w_d2d368eb1efe",
+      "tense": "imperative",
+      "person": "אתן",
+      "form_he": "גִּרְמוּ",
+      "form_translit": "girmu"
+    },
+    {
+      "id": "cj_69717f540d0c",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "אני",
+      "form_he": "דָּרַסְתִּי",
+      "form_translit": "darasti"
+    },
+    {
+      "id": "cj_c7e81359e5a1",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "אתה",
+      "form_he": "דָּרַסְתָּ",
+      "form_translit": "darasta"
+    },
+    {
+      "id": "cj_238e3b8f0080",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "את",
+      "form_he": "דָּרַסְתְּ",
+      "form_translit": "darast"
+    },
+    {
+      "id": "cj_8ac2b0bb2bee",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "הוא",
+      "form_he": "דָּרַס",
+      "form_translit": "daras"
+    },
+    {
+      "id": "cj_357e879cc538",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "היא",
+      "form_he": "דָּרְסָה",
+      "form_translit": "darsa"
+    },
+    {
+      "id": "cj_89355e08edfd",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "אנחנו",
+      "form_he": "דָּרַסְנוּ",
+      "form_translit": "darasnu"
+    },
+    {
+      "id": "cj_4b70ce8d6f03",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "אתם",
+      "form_he": "דְּרַסְתֶּם",
+      "form_translit": "drastem"
+    },
+    {
+      "id": "cj_18ea2503682f",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "אתן",
+      "form_he": "דְּרַסְתֶּן",
+      "form_translit": "drasten"
+    },
+    {
+      "id": "cj_93098988f66a",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "הם",
+      "form_he": "דָּרְסוּ",
+      "form_translit": "darsu"
+    },
+    {
+      "id": "cj_bc5ca542878b",
+      "word_id": "w_c519fa159783",
+      "tense": "past",
+      "person": "הן",
+      "form_he": "דָּרְסוּ",
+      "form_translit": "darsu"
+    },
+    {
+      "id": "cj_61d278b9f70b",
+      "word_id": "w_c519fa159783",
+      "tense": "present",
+      "person": "אני",
+      "form_he": "דּוֹרֵס",
+      "form_translit": "dores"
+    },
+    {
+      "id": "cj_b3c81973ea0b",
+      "word_id": "w_c519fa159783",
+      "tense": "present",
+      "person": "אתה",
+      "form_he": "דּוֹרֵס",
+      "form_translit": "dores"
+    },
+    {
+      "id": "cj_3ba02678427b",
+      "word_id": "w_c519fa159783",
+      "tense": "present",
+      "person": "את",
+      "form_he": "דּוֹרֶסֶת",
+      "form_translit": "doreset"
+    },
+    {
+      "id": "cj_abb94a0d2aba",
+      "word_id": "w_c519fa159783",
+      "tense": "present",
+      "person": "הוא",
+      "form_he": "דּוֹרֵס",
+      "form_translit": "dores"
+    },
+    {
+      "id": "cj_098c40c56e0a",
+      "word_id": "w_c519fa159783",
+      "tense": "present",
+      "person": "היא",
+      "form_he": "דּוֹרֶסֶת",
+      "form_translit": "doreset"
+    },
+    {
+      "id": "cj_f345e4086540",
+      "word_id": "w_c519fa159783",
+      "tense": "present",
+      "person": "אנחנו",
+      "form_he": "דּוֹרְסִים",
+      "form_translit": "dorsim"
+    },
+    {
+      "id": "cj_8583a2722c20",
+      "word_id": "w_c519fa159783",
+      "tense": "present",
+      "person": "אתם",
+      "form_he": "דּוֹרְסִים",
+      "form_translit": "dorsim"
+    },
+    {
+      "id": "cj_72f51ba8eae7",
+      "word_id": "w_c519fa159783",
+      "tense": "present",
+      "person": "אתן",
+      "form_he": "דּוֹרְסוֹת",
+      "form_translit": "dorsot"
+    },
+    {
+      "id": "cj_fbfddd0f67dc",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "אני",
+      "form_he": "אֶדְרֹס",
+      "form_translit": "edros"
+    },
+    {
+      "id": "cj_373b8f507731",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "אתה",
+      "form_he": "תִּדְרֹס",
+      "form_translit": "tidros"
+    },
+    {
+      "id": "cj_d26736b29f98",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "את",
+      "form_he": "תִּדְרְסִי",
+      "form_translit": "tidresi"
+    },
+    {
+      "id": "cj_58b96357aa07",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "הוא",
+      "form_he": "יִדְרֹס",
+      "form_translit": "yidros"
+    },
+    {
+      "id": "cj_37b8b2e053ea",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "היא",
+      "form_he": "תִּדְרֹס",
+      "form_translit": "tidros"
+    },
+    {
+      "id": "cj_801267244e59",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "אנחנו",
+      "form_he": "נִדְרֹס",
+      "form_translit": "nidros"
+    },
+    {
+      "id": "cj_b3c62e43faf1",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "אתם",
+      "form_he": "תִּדְרְסוּ",
+      "form_translit": "tidresu"
+    },
+    {
+      "id": "cj_7874dee6c1a0",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "אתן",
+      "form_he": "תִּדְרְסוּ",
+      "form_translit": "tidresu"
+    },
+    {
+      "id": "cj_d308ec2c89e4",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "הם",
+      "form_he": "יִדְרְסוּ",
+      "form_translit": "yidresu"
+    },
+    {
+      "id": "cj_797b127d45c7",
+      "word_id": "w_c519fa159783",
+      "tense": "future",
+      "person": "הן",
+      "form_he": "יִדְרְסוּ",
+      "form_translit": "yidresu"
+    },
+    {
+      "id": "cj_8bf4f4111123",
+      "word_id": "w_c519fa159783",
+      "tense": "imperative",
+      "person": "אתה",
+      "form_he": "דְּרֹס",
+      "form_translit": "dros"
+    },
+    {
+      "id": "cj_01323150ef78",
+      "word_id": "w_c519fa159783",
+      "tense": "imperative",
+      "person": "את",
+      "form_he": "דִּרְסִי",
+      "form_translit": "dirsi"
+    },
+    {
+      "id": "cj_0a7adf2db242",
+      "word_id": "w_c519fa159783",
+      "tense": "imperative",
+      "person": "אתם",
+      "form_he": "דִּרְסוּ",
+      "form_translit": "dirsu"
+    },
+    {
+      "id": "cj_ac6a51c86d10",
+      "word_id": "w_c519fa159783",
+      "tense": "imperative",
+      "person": "אתן",
+      "form_he": "דִּרְסוּ",
+      "form_translit": "dirsu"
+    }
+  ]
+}

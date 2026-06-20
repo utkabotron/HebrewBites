@@ -22,10 +22,6 @@ export const ConjugatedFormSchema = z.object({
     ),
   he: z.string().describe('Conjugated form in Hebrew, with nikkud'),
   translit: z.string().describe('Latin transliteration as printed'),
-  translation_ru: z
-    .string()
-    .nullable()
-    .describe('Russian translation of the form, if printed in the book. Null otherwise.'),
 });
 
 export const ConjugationEntrySchema = z.object({
@@ -63,9 +59,8 @@ const formItem = {
     person: { type: 'string' },
     he: { type: 'string' },
     translit: { type: 'string' },
-    translation_ru: { type: 'string', nullable: true },
   },
-  required: ['person', 'he', 'translit', 'translation_ru'],
+  required: ['person', 'he', 'translit'],
 };
 
 export const conjugationResponseSchema = {

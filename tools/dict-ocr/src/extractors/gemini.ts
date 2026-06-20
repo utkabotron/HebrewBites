@@ -84,8 +84,9 @@ export async function geminiExtract<T>(args: ExtractArgs): Promise<T> {
         config: {
           responseMimeType: 'application/json',
           responseSchema: responseSchema as Record<string, unknown>,
-          // Higher token budget — dictionary pages can be dense.
-          maxOutputTokens: 16384,
+          // Dense alphabetical pages can blow past 16k. Allow up to 64k output tokens —
+          // truncation surfaces as "Unterminated string in JSON" on the parse step.
+          maxOutputTokens: 65536,
           temperature: 0,
         },
         // @ts-expect-error — newer SDKs accept signal; ignore if not present.
@@ -105,7 +106,24 @@ export async function geminiExtract<T>(args: ExtractArgs): Promise<T> {
         throw new Error('Gemini returned empty text');
       }
 
-      return JSON.parse(text) as T;
+      const finishReason = response.candidates?.[0]?.finishReason;
+      if (finishReason && finishReason !== 'STOP') {
+        console.warn(`[gemini] finishReason=${finishReason} (response may be truncated)`);
+      }
+
+      try {
+        return JSON.parse(text) as T;
+      } catch (parseErr) {
+        const debugPath = `/tmp/gemini-raw-${Date.now()}.json`;
+        try {
+          const { writeFileSync } = await import('node:fs');
+          writeFileSync(debugPath, text, 'utf8');
+          console.warn(`[gemini] parse failed; raw response saved to ${debugPath}`);
+        } catch {
+          // ignore debug-save failure
+        }
+        throw parseErr;
+      }
     } catch (err) {
       lastErr = err;
       if (!isRetryable(err) || attempt === config.maxRetries) {

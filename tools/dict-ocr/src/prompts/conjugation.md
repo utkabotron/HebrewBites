@@ -27,15 +27,13 @@ If the printed table has a combined row (e.g. הוא/היא or הם/הן with on
 - `binyan` — printed binyan name (e.g. "פעל").
 - `infinitive_he` — with nikkud as printed.
 - `gerund_he` — with nikkud, or `null` if absent.
-- For each tense, return an array of `{ person, he, translit, translation_ru }`.
+- For each tense, return an array of `{ person, he, translit }`.
   - `he` keeps all nikkud.
   - `translit` exactly as printed (Latin letters; preserve diacritics if any).
-  - `translation_ru` is Russian gloss if the book prints one for that form; otherwise `null`.
 - Preserve the **on-page order of persons**.
 
 ## Anti-patterns
 
-- ❌ Do not invent a Russian translation if it isn't printed for that cell — use `null`.
 - ❌ Do not skip cells. If a cell is empty on the page, still output the person with empty strings.
 - ❌ Do not collapse הוא/היא into one form.
 - ❌ Do not drop nikkud.

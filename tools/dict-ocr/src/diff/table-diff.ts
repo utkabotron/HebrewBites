@@ -134,10 +134,10 @@ export function parseConjugationMarkdown(mdPath: string): ConjugationPage {
       gerund_he: e.gerund_he,
       gerund_translit: e.gerund_translit,
       tenses: {
-        past: e.tenses.past.map((f) => ({ ...f, translation_ru: null })),
-        present: e.tenses.present.map((f) => ({ ...f, translation_ru: null })),
-        future: e.tenses.future.map((f) => ({ ...f, translation_ru: null })),
-        imperative: e.tenses.imperative.map((f) => ({ ...f, translation_ru: null })),
+        past: e.tenses.past.map((f) => ({ ...f })),
+        present: e.tenses.present.map((f) => ({ ...f })),
+        future: e.tenses.future.map((f) => ({ ...f })),
+        imperative: e.tenses.imperative.map((f) => ({ ...f })),
       },
     })),
   };

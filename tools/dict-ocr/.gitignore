@@ -13,8 +13,9 @@ secrets/
 fixtures/images/
 output/extractions/
 
-# Keep output/reports/ committed (per plan)
+# Keep output/reports/ and output/db/ committed (per plan)
 !output/reports/
+!output/db/
 
 # OS
 .DS_Store

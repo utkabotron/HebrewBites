@@ -25,6 +25,13 @@ import { diffAlphabetical, diffVerbExamples } from './diff/json-diff.js';
 import { diffConjugation, parseConjugationMarkdown } from './diff/table-diff.js';
 import type { PageDiff } from './diff/json-diff.js';
 import { renderPageReport, renderSummary } from './reports/markdown.js';
+import { writeWorkbook, type ExcelInput } from './reports/excel.js';
+import { writeVocabularyWorkbook } from './reports/excel-db.js';
+import { buildCanonical } from './db/build.js';
+import { denormalize } from './db/denormalize.js';
+import type { AlphabeticalPage } from './schemas/alphabetical.js';
+import type { ConjugationPage } from './schemas/conjugation.js';
+import type { VerbExamplesPage } from './schemas/verb-examples.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const ROOT = resolve(dirname(__filename), '..');
@@ -196,6 +203,56 @@ async function main() {
     writeFileSync(summaryPath, renderSummary(diffs), 'utf8');
     console.log(`\n[summary] ${summaryPath}`);
   }
+
+  // Build a unified Excel workbook from whatever extractions made it to disk.
+  const excelInput: ExcelInput = { diffs };
+  const tryLoadJson = (path: string): unknown | undefined => {
+    if (!existsSync(path)) return undefined;
+    try {
+      return JSON.parse(readFileSync(path, 'utf8'));
+    } catch {
+      return undefined;
+    }
+  };
+
+  const alphaJson = tryLoadJson(resolve(ROOT, 'output/extractions/alphabetical.json'));
+  if (alphaJson) {
+    const parsed = AlphabeticalPageSchema.safeParse(alphaJson);
+    if (parsed.success) excelInput.alphabetical = parsed.data;
+  }
+
+  const conjJson = tryLoadJson(resolve(ROOT, 'output/extractions/conjugation.json'));
+  if (conjJson) {
+    const parsed = ConjugationPageSchema.safeParse(conjJson);
+    if (parsed.success) excelInput.conjugation = parsed.data;
+  }
+
+  const verbJson = tryLoadJson(resolve(ROOT, 'output/extractions/verb-examples.json'));
+  if (verbJson) {
+    const parsed = VerbExamplesPageSchema.safeParse(verbJson);
+    if (parsed.success) excelInput.verbExamples = parsed.data;
+  }
+
+  const excelPath = resolve(ROOT, 'output/reports/dictionary.xlsx');
+  await writeWorkbook(excelPath, excelInput);
+  console.log(`[excel] ${excelPath}`);
+
+  // Build canonical DB + denormalized cards + review xlsx.
+  const dbDir = resolve(ROOT, 'output/db');
+  mkdirSync(dbDir, { recursive: true });
+
+  const db = buildCanonical({
+    alphabetical: excelInput.alphabetical,
+    conjugation: excelInput.conjugation,
+    verbExamples: excelInput.verbExamples,
+    meta: { model: config.model },
+  });
+  const cards = denormalize(db);
+
+  writeFileSync(resolve(dbDir, 'vocabulary.json'), JSON.stringify(db, null, 2), 'utf8');
+  writeFileSync(resolve(dbDir, 'cards.json'), JSON.stringify(cards, null, 2), 'utf8');
+  await writeVocabularyWorkbook(resolve(dbDir, 'vocabulary.xlsx'), db);
+  console.log(`[db] ${dbDir}  words=${db.words.length} cards=${cards.length}`);
 }
 
 main().catch((err) => {
