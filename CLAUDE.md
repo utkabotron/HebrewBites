@@ -1,5 +1,9 @@
 # CLAUDE.md
 
+> ⚠️ **ARCHIVED — concept prototype, not the product.** This root app is no longer
+> developed. The active product is **`TAL/mobile-app`** (`talmannn/hebrebites-mobile-app`,
+> Expo SDK 56). Do not add features here. See `ARCHIVED.md`.
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## RULES
