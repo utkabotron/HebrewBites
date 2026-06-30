@@ -2,8 +2,6 @@ export const Colors = {
   primary: '#C4712B',
   primaryDark: '#A35D23',
   primaryLight: '#E8A45C',
-  secondary: '#E8A45C',
-  secondaryDark: '#D4944E',
   background: '#FDF6EE',
   backgroundDark: '#F5E6D3',
   card: 'rgba(255, 255, 255, 0.55)',
@@ -18,20 +16,9 @@ export const Colors = {
   },
   text: '#2D2D2D',
   textSecondary: '#7A7A7A',
-  textMuted: '#A0A0A0',
   textLight: '#FFFFFF',
-  // Learn-session tokens
-  points: 'rgba(196, 113, 43, 0.6)',
-  progressTrack: 'rgba(196, 113, 43, 0.2)',
-  scoreBg: 'rgba(196, 113, 43, 0.1)',
-  amberTrack: 'rgba(232, 164, 92, 0.3)',
-  amberSoft: 'rgba(232, 164, 92, 0.12)',
-  amberIconBg: 'rgba(232, 164, 92, 0.15)',
-  deco1: '#C4712B15',
-  deco2: '#E8976315',
   success: '#4CAF50',
   successLight: 'rgba(76, 175, 80, 0.15)',
-  successBg: 'rgba(76, 175, 80, 0.1)',
   error: '#E53935',
   errorLight: 'rgba(229, 57, 53, 0.1)',
   warning: '#FF9800',
@@ -48,17 +35,6 @@ export const Colors = {
     inactive: '#9E9E9E',
     background: 'rgba(255, 255, 255, 0.7)',
   },
-  gradients: {
-    amberButton: ['#E8A45C', '#D4944E'] as const,
-    amberProgress: ['#E8A45C', '#C4712B'] as const,
-  },
-};
-
-export const Fonts = {
-  regular: 'Outfit_400Regular',
-  medium: 'Outfit_500Medium',
-  semibold: 'Outfit_600SemiBold',
-  bold: 'Outfit_700Bold',
 };
 
 export const GlassStyle = {
